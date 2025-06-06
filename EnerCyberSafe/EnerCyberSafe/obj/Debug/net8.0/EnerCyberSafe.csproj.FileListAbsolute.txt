@@ -1,0 +1,14 @@
+C:\Users\renat\Downloads\EnerCyberSafe\EnerCyberSafe\bin\Debug\net8.0\EnerCyberSafe.exe
+C:\Users\renat\Downloads\EnerCyberSafe\EnerCyberSafe\bin\Debug\net8.0\EnerCyberSafe.deps.json
+C:\Users\renat\Downloads\EnerCyberSafe\EnerCyberSafe\bin\Debug\net8.0\EnerCyberSafe.runtimeconfig.json
+C:\Users\renat\Downloads\EnerCyberSafe\EnerCyberSafe\bin\Debug\net8.0\EnerCyberSafe.dll
+C:\Users\renat\Downloads\EnerCyberSafe\EnerCyberSafe\bin\Debug\net8.0\EnerCyberSafe.pdb
+C:\Users\renat\Downloads\EnerCyberSafe\EnerCyberSafe\obj\Debug\net8.0\EnerCyberSafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renat\Downloads\EnerCyberSafe\EnerCyberSafe\obj\Debug\net8.0\EnerCyberSafe.AssemblyInfoInputs.cache
+C:\Users\renat\Downloads\EnerCyberSafe\EnerCyberSafe\obj\Debug\net8.0\EnerCyberSafe.AssemblyInfo.cs
+C:\Users\renat\Downloads\EnerCyberSafe\EnerCyberSafe\obj\Debug\net8.0\EnerCyberSafe.csproj.CoreCompileInputs.cache
+C:\Users\renat\Downloads\EnerCyberSafe\EnerCyberSafe\obj\Debug\net8.0\EnerCyberSafe.dll
+C:\Users\renat\Downloads\EnerCyberSafe\EnerCyberSafe\obj\Debug\net8.0\refint\EnerCyberSafe.dll
+C:\Users\renat\Downloads\EnerCyberSafe\EnerCyberSafe\obj\Debug\net8.0\EnerCyberSafe.pdb
+C:\Users\renat\Downloads\EnerCyberSafe\EnerCyberSafe\obj\Debug\net8.0\EnerCyberSafe.genruntimeconfig.cache
+C:\Users\renat\Downloads\EnerCyberSafe\EnerCyberSafe\obj\Debug\net8.0\ref\EnerCyberSafe.dll
