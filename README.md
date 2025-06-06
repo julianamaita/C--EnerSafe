@@ -61,5 +61,71 @@ Permite o registro, análise e resposta a falhas, além de emissão de relatóri
  
 
 --- 
+## Estrutura de Pastas 
 
+ 
+
+EnerCyberSafe 
+
+├── Program.cs 
+
+├── Models 
+
+│ ├── Usuario.cs 
+
+│ ├── FalhaEnergia.cs 
+
+├── Services 
+
+│ ├── AlertaService.cs 
+
+│ ├── LogService.cs 
+
+│ ├── RelatorioService.cs 
+
+ 
+
+ 
+
+ 
+
+--- 
+
+ 
+
+## Como contribuir 
+
+ 
+
+- Faça um fork.   
+
+- Crie uma branch.   
+
+- Commit suas alterações.   
+
+- Abra um pull request. 
+
+ 
+
+--- 
+
+ 
+
+## Licença 
+
+ 
+
+MIT License 
+
+ 
+
+--- 
+
+ 
+
+## Contato 
+
+ 
+
+Desenvolvido para **Global Solution** - FIAP.   
  
